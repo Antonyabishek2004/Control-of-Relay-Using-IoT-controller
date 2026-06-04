@@ -62,7 +62,7 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 
 ## PROGRAM :
 
-~~~
+```
 void setup() {
 // put your setup code here, to run once:
 pinMode(A0,OUTPUT);
@@ -76,14 +76,17 @@ delay(3000);
 }
 ```
 
-## CIRCUIT DIAGRAM:
+## CIRCUIT DIAGRAM :
+
 ![EX NO 2 IOT  circuit diagram](https://github.com/Antonyabishek2004/Control-of-Relay-Using-IoT-controller/assets/138849620/30df7215-b909-487f-9ba5-83d468ee48b7)
 
-## OUTPUT:
+## OUTPUT :
+
 ![EX NO 2 IOT part 1](https://github.com/Antonyabishek2004/Control-of-Relay-Using-IoT-controller/assets/138849620/dff8a560-1974-4f1b-aeaf-c361142fb08a)
+
 ![Screenshot 2024-03-06 145440](https://github.com/Antonyabishek2004/Control-of-Relay-Using-IoT-controller/assets/138849620/20cd575c-feb0-463c-b844-289631bdf2ab)
 
 
-## RESULT:
+## RESULT :
 
 Thus the relay is controlled using Arduino controller.
